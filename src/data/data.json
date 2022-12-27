@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+          "id" : 1,
+          "address": "0x75fe16FFdA57C5Ec022dF26FC2F6972AcFA871A6",
+          "name": "Degen Dance",
+          "type": "png",
+          "owner": false,
+          "link": "https://testnets.opensea.io/collection/my-hope-token-v2",
+          "count": 0  
+        },
+
+        {
+
+          "id" : 1,
+          "address": "0x75fe16FFdA57C5Ec022dF26FC2F6972AcFA871A6",
+          "name": "iya tobi",
+          "type": "png",
+          "owner": false,
+          "link": "https://testnets.opensea.io/collection/my-hope-token-v2",
+          "count": 0 
+        }  
+    ]
+}
